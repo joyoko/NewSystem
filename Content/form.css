@@ -1,0 +1,16 @@
+        .form
+        {
+            font-family: 宋体, Arial, Helvetica, sans-serif;
+            font-size: 12px;
+            font-weight: bold;
+            color: #0000FF;
+            border-bottom-style: solid;
+            border-bottom-width: 1px;
+            border-bottom-color: #C0C0C0;
+        }
+        
+.tree{ font-size:14px; line-height:14px; font-family:宋体;}
+.treetable tr{ height:14px; display:block; overflow:hidden;}
+.treetable tr td{ line-height:14px; height:14px; overflow:hidden; display:block; font-size:12px; padding:0px; margin:0px; vertical-align:middle;}
+.treetable tr td div{ height:14px; line-height:14px; display:block; float:left; overflow:hidden;}
+.treetable tr td img{ float:left;}

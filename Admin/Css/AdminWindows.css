@@ -1,0 +1,16 @@
+﻿body { padding:0px; margin:0 auto 0 auto; background:url(../ImgWin/bg.jpg) left top no-repeat;}
+body form{ padding:0; height:100%; width:100%; margin:0; display:block;}
+
+#win{ width:100%; height:100%; display:block;}
+#head{ height:40px; line-height:40px;  background:url(../ImgWin/logo_bg.gif) repeat-x; display:block;width:100%;}
+#head *{float:left; margin:0 auto 0 auto; padding:0;}
+#head ul{ list-style:none; height:40px; float:left; display:block; width:auto; background:url(../ImgWin/taskbar.gif) 0px -200px no-repeat; }
+#head ul li{ list-style:none; padding-left:0px; width:164px; height:40px; display:block; background:url(../ImgWin/taskbar.gif) 0px 0px no-repeat;}
+#head ul .hover{background:url(../ImgWin/taskbar.gif) -164px 0px no-repeat;}
+#head ul .selected{background:url(../ImgWin/taskbar.gif) -328px 0px no-repeat;}
+#head ul li span{ font-size:12px; cursor:default; line-height:40px; padding-left:40px; width:124px; display:block; color:#fff; text-decoration:none;font-family:"Microsoft Yahei"; }
+
+#main{ width:100%; height:100%; display:block;}
+#main .taskpanel{ width:100%; height:600px; display:block; background:#333;}
+#main .FileSystem{ width:800px; height:600px; display:block; background:#333;}
+#main .FileSystem .TopMenu{ width:100%; height:35px; line-height:35px; clear:both; display:block; background:#123456;}
